@@ -1,0 +1,5 @@
+./lstm_model
+./transformers_model
+./venv
+./.idea
+./config.py
